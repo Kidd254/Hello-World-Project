@@ -1,5 +1,3 @@
-logo
-Microverse README Template
 📗 Table of Contents
 
     📖 About the Project
@@ -33,14 +31,10 @@ Client
 Server
 Database
 Key Features
-
-    Describe between 1-3 key features of the application.
-
     [text-style]- added dodgerblue color as the text color
     [css file] - added and linked css file
-🚀 Live Demo
 
-    Add a link to your deployed project.
+🚀 Live Demo
 
     Live Demo Link
 
@@ -67,13 +61,8 @@ Deployment
     LinkedIn: Lawrence Kioko
 
 🔭 Future Features
-
-    Describe 1 - 3 features you will add to the project.
-
-    [new_feature_1]
-    [new_feature_2]
-    [new_feature_3]
-
+    [text-style]- added dodgerblue color as the text color
+    [css file] - added and linked css file
 
 🤝 Contributing
 
@@ -90,9 +79,6 @@ If you like this project kindly offer your support in terms of contributions. If
 Vote of thanks to Microverse for giving me an opportunity and ispiring me to complete this project.
 
 ❓ FAQ
-
-    Add at least 2 questions new developers would ask when they decide to use your project.
-
     [Where is the functionality in this project?]
         [this project is work in progress, more changes are likely to be added in the due caourse]
 
