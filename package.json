@@ -1,0 +1,23 @@
+{
+  "name": "hello-world-project",
+  "version": "1.0.0",
+  "description": "This is the first Microverse Project meant to test application of gitflow and es linter configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kidd254/Hello-World-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kidd254/Hello-World-Project/issues"
+  },
+  "homepage": "https://github.com/Kidd254/Hello-World-Project#readme",
+  "devDependencies": {
+    "eslint": "^8.28.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
